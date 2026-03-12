@@ -1,0 +1,10 @@
+Script started on Thu Mar 12 14:10:02 2026
+
+$ g++ project1_task1.cpp fraction.cpp
+$ ./a.out
+
+Fraction: 3/5
+Numerator: 3
+Denominator: 5
+
+Script done on Thu Mar 12 14:10:15 2026
