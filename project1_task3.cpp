@@ -1,3 +1,10 @@
+/**
+ * Description: Fraction class test program
+ * Name: Madyson Dye
+ * StarID: kh5321fi
+ * Due Date: March 12, 2026
+ * Instructor: Jie Meichsner
+ */
 #include <iostream>
 #include "newfraction2.h"
 using namespace std;
