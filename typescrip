@@ -1,0 +1,21 @@
+Script started on Thu Mar 12 14:15:20 2026
+
+$ g++ project1_task2.cpp newfraction1.cpp
+$ ./a.out
+
+Enter the first fraction: numerator denominator
+3 5
+Enter the second fraction: numerator denominator
+2 3
+
+The two fractions entered are
+f1 = 3/5
+f2 = 2/3
+
+The arithmetic operations on these two fractions:
+f1 + f2 = 19/15
+f1 - f2 = -1/15
+f1 * f2 = 6/15
+f1 / f2 = 9/10
+
+Script done on Thu Mar 12 14:15:45 2026
